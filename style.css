@@ -1,0 +1,69 @@
+.ball{
+    float: left;
+    height: 76px;
+  }
+  
+  .center{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+ .img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  
+  .alt{
+    background-color: #eaece5;
+    text-align: center;
+  }
+  
+  .red{
+    text-align: center;
+    padding-right: 200px;
+    padding-left: 200px;
+  }
+  
+  .blue{
+    text-align: center;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin: 0px;
+  }
+  
+  .p{
+    margin: 0px;
+  }
+  
+  .son{
+    width: 500px;
+    font-size: 12px;
+  }
+  
+  .Home{
+    width: 850px;
+    padding-top: 2px;
+    margin: auto;
+  }
+  
+  .ayak{
+    text-align: center;
+  }
+  
+  .rnk1{
+    background-color: #CDF5FD;
+  }
+  
+  .rnk2{
+    background-color: #A0E9FF;
+  }
+  
+  .rnk3{
+    text-align: center;
+    background-color: #89CFF3;
+  }
